@@ -1,0 +1,6 @@
+{
+	"name": "ChooseFIleModal",
+	"main": "ChooseFIleModal.tsx",
+	"version": "1.0.0",
+	"dependencies": {}
+}

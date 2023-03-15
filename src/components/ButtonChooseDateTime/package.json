@@ -1,0 +1,7 @@
+{
+  "name": "ButtonChooseDateTime",
+  "main": "ButtonChooseDateTime.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+  }
+}

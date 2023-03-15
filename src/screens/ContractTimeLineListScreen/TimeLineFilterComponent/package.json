@@ -1,0 +1,6 @@
+{
+	"name": "TimeLineFilterComponent",
+	"main": "TimeLineFilterComponent.tsx",
+	"version": "1.0.0",
+	"dependencies": {}
+}

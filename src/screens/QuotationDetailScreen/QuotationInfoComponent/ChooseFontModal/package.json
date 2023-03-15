@@ -1,0 +1,6 @@
+{
+	"name": "ChooseFontModal",
+	"main": "ChooseFontModal.tsx",
+	"version": "1.0.0",
+	"dependencies": {}
+}

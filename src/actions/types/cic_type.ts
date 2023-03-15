@@ -1,0 +1,3 @@
+export const GET_LIST_CIC = 'GET_LIST_CIC';
+export const GET_LIST_CIC_SUCCESS = 'GET_LIST_CIC_SUCCESS';
+export const GET_LIST_CIC_FAIL = 'GET_LIST_CIC_FAIL';

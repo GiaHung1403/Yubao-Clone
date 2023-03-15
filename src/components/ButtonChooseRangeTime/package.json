@@ -1,0 +1,6 @@
+{
+	"name": "ButtonChooseRangeTime",
+	"main": "ButtonChooseRangeTime.tsx",
+	"version": "1.0.0",
+	"dependencies": {}
+}

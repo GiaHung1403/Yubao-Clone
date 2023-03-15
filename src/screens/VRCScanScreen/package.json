@@ -1,0 +1,7 @@
+{
+  "name": "VRCScanScreen",
+  "main": "VRCScanScreen.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+  }
+}

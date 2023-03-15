@@ -1,0 +1,6 @@
+{
+	"name": "CustomerResourceDetailModal",
+	"main": "CustomerResourceDetailModal.tsx",
+	"version": "1.0.0",
+	"dependencies": {}
+}

@@ -1,0 +1,7 @@
+{
+  "name": "CallPhoneOptionModal",
+  "main": "CallPhoneOptionModal.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+  }
+}

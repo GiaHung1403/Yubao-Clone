@@ -1,0 +1,7 @@
+{
+  "name": "TicketSearchScreen",
+  "main": "TicketSearchScreen.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+  }
+}

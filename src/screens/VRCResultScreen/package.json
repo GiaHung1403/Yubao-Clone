@@ -1,0 +1,7 @@
+{
+  "name": "VRCResultScreen",
+  "main": "VRCResultScreen.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+  }
+}

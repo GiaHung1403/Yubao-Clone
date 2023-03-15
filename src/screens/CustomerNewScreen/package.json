@@ -1,0 +1,7 @@
+{
+  "name": "CustomerNewScreen",
+  "main": "CustomerNewScreen.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+  }
+}

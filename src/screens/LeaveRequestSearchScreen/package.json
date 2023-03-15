@@ -1,0 +1,7 @@
+{
+  "name": "LeaveRequestSearchScreen",
+  "main": "LeaveRequestSearchScreen.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+  }
+}

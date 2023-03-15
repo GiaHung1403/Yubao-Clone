@@ -1,0 +1,6 @@
+{
+	"name": "InsuranceDetailModal",
+	"main": "InsuranceDetailModal.tsx",
+	"version": "1.0.0",
+	"dependencies": {}
+}

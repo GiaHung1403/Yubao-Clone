@@ -1,0 +1,7 @@
+{
+  "name": "TimeCheckInScreen",
+  "main": "TimeCheckInScreen.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "BookMeetingDetailScreen",
+  "main": "BookMeetingDetailScreen.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+  }
+}

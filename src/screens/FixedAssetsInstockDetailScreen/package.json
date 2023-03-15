@@ -1,0 +1,7 @@
+{
+  "name": "FixedAssetsInstockDetailScreen",
+  "main": "FixedAssetsInstockDetailScreen.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+  }
+}

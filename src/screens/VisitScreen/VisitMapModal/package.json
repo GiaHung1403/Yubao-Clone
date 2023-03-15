@@ -1,0 +1,6 @@
+{
+	"name": "VisitMapModal",
+	"main": "VisitMapModal.tsx",
+	"version": "1.0.0",
+	"dependencies": {}
+}

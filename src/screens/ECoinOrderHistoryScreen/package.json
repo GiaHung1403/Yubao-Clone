@@ -1,0 +1,7 @@
+{
+  "name": "ECoinOrderHistoryScreen",
+  "main": "ECoinOrderHistoryScreen.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+  }
+}

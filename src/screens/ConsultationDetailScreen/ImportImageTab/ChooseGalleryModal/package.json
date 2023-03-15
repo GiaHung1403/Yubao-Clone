@@ -1,0 +1,6 @@
+{
+	"name": "ChooseGalleryModal",
+	"main": "ChooseGalleryModal.tsx",
+	"version": "1.0.0",
+	"dependencies": {}
+}

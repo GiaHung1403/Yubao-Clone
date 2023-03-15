@@ -1,0 +1,7 @@
+{
+  "name": "SignUpScreen",
+  "main": "SignUpScreen.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "RequestCustomerCreateScreen",
+  "main": "RequestCustomerCreateScreen.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+  }
+}

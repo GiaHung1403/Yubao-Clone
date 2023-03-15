@@ -1,0 +1,7 @@
+{
+  "name": "ECoinHistoryScreen",
+  "main": "ECoinHistoryScreen.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+  }
+}

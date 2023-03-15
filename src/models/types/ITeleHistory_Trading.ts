@@ -1,0 +1,29 @@
+export default interface ITeleHistory_Trading {
+	sub_team: string;
+	ls_pur: string;
+	tax_code: string;
+	emp_mail: string;
+	calldate: string;
+	emp_nm: string;
+	emp_no: string;
+	callcontent: string;
+	calldate1: Date;
+	lese_tno: string;
+	lese_addr: string;
+	lese_name: string;
+	grade: string;
+	recall_date: Date;
+	contact_nm: string;
+	mobile: string;
+	grade_nm: string;
+	lst_nm: string;
+	mail_yn: boolean;
+	recalldate: Date;
+	sub_boss_no: string;
+	city: string;
+	district: string;
+	city_nm: string;
+	team: string;
+	manager_no: string;
+	tele_id: string;
+}

@@ -1,0 +1,6 @@
+{
+	"name": "VisitHistoryComponent_T",
+	"main": "ListVisitHistoryComponent_T.tsx",
+	"version": "1.0.0",
+	"dependencies": {}
+}

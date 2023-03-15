@@ -1,0 +1,7 @@
+{
+  "name": "GeneralRFADetailScreen",
+  "main": "GeneralRFADetailScreen.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+  }
+}

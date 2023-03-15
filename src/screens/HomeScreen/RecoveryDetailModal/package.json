@@ -1,0 +1,6 @@
+{
+	"name": "RecoveryDetailModal",
+	"main": "RecoveryDetailModal.tsx",
+	"version": "1.0.0",
+	"dependencies": {}
+}

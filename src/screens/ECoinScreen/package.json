@@ -1,0 +1,7 @@
+{
+  "name": "ECoinScreen",
+  "main": "ECoinScreen.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+  }
+}

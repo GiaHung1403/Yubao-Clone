@@ -1,0 +1,7 @@
+{
+  "name": "GeneralRFAListScreen",
+  "main": "GeneralRFAListScreen.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+  }
+}

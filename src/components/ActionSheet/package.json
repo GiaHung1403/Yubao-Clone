@@ -1,0 +1,7 @@
+{
+  "name": "ActionSheet",
+  "main": "ActionSheet.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+  }
+}

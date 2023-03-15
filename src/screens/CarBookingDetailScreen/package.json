@@ -1,0 +1,7 @@
+{
+  "name": "CarBookingDetailScreen",
+  "main": "CarBookingDetailScreen.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+  }
+}

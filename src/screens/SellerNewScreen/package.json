@@ -1,0 +1,7 @@
+{
+  "name": "SellerNewScreen",
+  "main": "SellerNewScreen.tsx",
+  "version": "1.0.0",
+  "dependencies": {
+  }
+}
