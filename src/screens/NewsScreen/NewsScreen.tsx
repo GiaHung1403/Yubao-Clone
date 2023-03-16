@@ -217,7 +217,7 @@ export function NewsScreen(props: any) {
 												play={false} // control playback of video with true/false
 												fullscreen // control whether the video should play in fullscreen or inline
 												style={{ alignSelf: 'stretch', height: 200 }}
-												apiKey={'AIzaSyDMUODNFVXheJfIq__WQlx6UlwqbesaVbI'}
+												apiKey={''}
 											/>
 										) : (
 											<YoutubePlayer
@@ -321,7 +321,7 @@ export function NewsScreen(props: any) {
 												fullscreen // control whether the video should play in fullscreen or inline
 												loop // control whether the video should loop when ended
 												style={{ alignSelf: 'stretch', height: 200 }}
-												apiKey={'AIzaSyDMUODNFVXheJfIq__WQlx6UlwqbesaVbI'}
+												apiKey={''}
 											/>
 										) : (
 											<YoutubePlayer
